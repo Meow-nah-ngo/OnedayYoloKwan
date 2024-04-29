@@ -3,4 +3,4 @@ opencv-contrib-python
 opencv-python
 opencv-python-headless
 ultralytics
-
+cv2
